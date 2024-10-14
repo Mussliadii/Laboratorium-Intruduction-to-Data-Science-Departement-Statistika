@@ -1,0 +1,22 @@
+SOAL :
+1. Nona Bergen adalah pegawai bagian kredit pada Coast Bank and Trust. Berdasarkan pengalamannya selama bertahun-tahun ia memperkirakan bahwa peluang seorang pemohon akan tidak mampu melunasi cicilan pinjamannya adalah 30%. Bulan lalu ia memberikan 50 pinjaman.
+a. Berapa peluang 4 kredit akan macet?	
+b. Berapa peluang tidak ada kredit yang macet?
+c. Berapa peluang paling banyak 6 kredit akan macet?
+
+2.  Rata-rata banyaknya partikel radioaktif yang melewati suatu hitungan selama 1 ms dalam suatu percobaan di laboratorium adalah 8.
+a. Berapa peluang 4 partikel melewati perhitungan dalam ms tertentu
+b. Berapa peluang tidak ada partikel yang melewati perhitungan dalam ms tertentu
+c. Berapa peluang sebanyak-banyaknya 5 partikel melewati perhitungan dalam ms tertentu
+
+3. Dalam suatu penelitian, 95% rumah di Amerika Serikat memiliki televisi berwarna. Diambil suatu sampel yang terdiri dari 15 rumah, berapa probabilitas:
+a. Semua rumah tersebut memiliki TV berwarna
+b. 3 – 8 rumah memiliki TV berwarna
+c. Paling sedikit 4 rumah memiliki TV berwarna
+d. Paling banyak 8 rumah memiliki TV berwarna
+
+4. Rerata masa layan lampu suatu produk adalah 800 jam dengan simpangan baku 75 jam. Distribusi dari masa layan lampu tersebut diasumsikan mengikuti distribusi normal. Hitunglah probabilitas lampu dengan masa layan tepat 850 jam?
+
+5. Distribusi berat badan 2000 orang mahasiswa statistika diketahui mendekati normal dengan mean 54 kg dan deviasi standar 5 kg 
+a. Hitunglah persentase banyak mahasiswa yang berat badannya antara 52 kg dan 58 kg.
+b. Hitunglah total banyaknya mahasiswa yang berat badannya kurang dari 50 kg.
